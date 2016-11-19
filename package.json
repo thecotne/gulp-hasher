@@ -26,8 +26,8 @@
     "event-stream": "^3.3.0"
   },
   "devDependencies": {
-    "chai": "^2.3.0",
-    "mocha": "^2.2.4",
-    "vinyl": "^0.4.6"
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "vinyl": "^2.0.1"
   }
 }
